@@ -1,5 +1,6 @@
 # copia-trello
-Uma cópia de algo para organizar,feita por alguem desorganizado (não literalmente).
 
-OBS: o site funciona apenas em desktop,infelizmente não tem funcionamento em aparelhos moveis,
-e ele pode conter alguns bugs (pelo motivo de que sou iniciante ainda).
+A copy of something to organize, made by someone disorganized (not literally).
+
+NOTE: the site works only on desktop, unfortunately it does not work on mobile devices,
+and it may contain some bugs (for the reason that I'm still a beginner).
